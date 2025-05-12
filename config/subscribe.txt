@@ -32,12 +32,7 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/Alan-Alana/IPTV/refs/heads
 https://gh.tryxd.cn/https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/IPTV-V4.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/IPTV-V6.m3u
 https://web.banye.tech:7777/tv/hlj.txt
-https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt
 http://xn--elt51t.azip.dpdns.org:5008/?type=txt
-https://live.hacks.tools/iptv/languages/zho.m3u
-https://live.iptv-free.com/iptv/languages/zho.m3u
-https://live.izbds.com/tv/iptv4.m3u
-https://live.izbds.com/tv/iptv6.m3u
 https://tv.iill.top/m3u/Gather
 https://tv.iill.top/m3u/MyTV
 https://szyyds.cn/tv/live/x.txt
