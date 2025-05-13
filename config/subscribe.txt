@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+http://1.94.31.214/live/livelite.txt
 https://web.banye.tech:7777/tvbus/yogurtTv.txt
 http://1.94.31.214/live/livelite.txt
 http://xn--elt51t.azip.dpdns.org:5008/?type=txt
