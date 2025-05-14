@@ -43,10 +43,3 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qq49371114/collect-tv-txt/ec97c7ebf5b20965760b59b6a9a6818b82d008a2/live.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/lc529180405/caicai/8be46d9e0b399ba0ddc1b7832b3bd7a236b3c159/极视解密.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/iptv-js/iptv-js.github.io/main/ss_itv.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/250992941/iptv/main/st1.txt
-https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://gh.tryxd.cn/https://raw.githubusercontent.com/alonezou/yn-iptv/main/reference/MyIPTV
-https://gh.tryxd.cn/https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt
