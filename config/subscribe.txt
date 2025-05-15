@@ -1,7 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://cnb.cool/junchao.tang/llive/-/blob/main/咪咕直播
+https://cnb.cool/junchao.tang/llive/-/git/raw/main/咪咕直播
 http://1.94.31.214/live/livelite.txt
 https://web.banye.tech:7777/tvbus/yogurtTv.txt
 http://1.94.31.214/live/livelite.txt
