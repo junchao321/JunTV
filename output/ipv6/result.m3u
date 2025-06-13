@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/junchao321/JunTV/refs/heads/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-06-12 07:41:20
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-06-13 19:47:28
 https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍄┃广东频道┃🏡",广州综合
 https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
@@ -706,8 +706,6 @@ https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🍓┃央视频道┃🏡",CCTV-5
 https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🍓┃央视频道┃🏡",CCTV-5
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🍓┃央视频道┃🏡",CCTV-5
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🍓┃央视频道┃🏡",CCTV-5
 http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -721,6 +719,8 @@ http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🍓┃央视频道┃🏡",CCTV-5
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3847208563_882248521/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8?icpid=3&RTS=1668594346&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🍓┃央视频道┃🏡",CCTV-5
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🍓┃央视频道┃🏡",CCTV-5+
 http://z.b.bkpcp.top/m.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🍓┃央视频道┃🏡",CCTV-5+
@@ -954,13 +954,13 @@ https://www.freetv.top/migu/673168185.m3u8?migutoken=37acadb43b1d7932b0a1e8a4f2d
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道┃🏡",CCTV-12
 https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道┃🏡",CCTV-12
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道┃🏡",CCTV-12
 http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道┃🏡",CCTV-12
 http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道┃🏡",CCTV-12
 http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道┃🏡",CCTV-12
+http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226447/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="🍓┃央视频道┃🏡",CCTV-13
 http://z.b.bkpcp.top/m.php?id=cctv13
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="🍓┃央视频道┃🏡",CCTV-13
@@ -1096,8 +1096,6 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍓┃央视频道┃🏡",CCTV-17
 http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍓┃央视频道┃🏡",CCTV-17
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍓┃央视频道┃🏡",CCTV-17
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍓┃央视频道┃🏡",CCTV-17
 http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -1111,6 +1109,8 @@ http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353299/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1668595278&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍓┃央视频道┃🏡",CCTV-17
 http://www.1328099.xyz:9001/udp/239.77.1.121:5146
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍓┃央视频道┃🏡",CCTV-17
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="🍓┃央视频道┃🏡",CETV1
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="🍓┃央视频道┃🏡",CETV1
@@ -1395,6 +1395,10 @@ http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8#http:/
 https://stream1.freetv.fun/xiang-gang-wei-shi-1.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="🐧┃卫视频道┃🏡",香港卫视
 https://stream1.freetv.fun/xiang-gang-wei-shi-16.m3u8
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="🐧┃卫视频道┃🏡",香港卫视
+https://migu.777189.xyz/?migutoken=5034a145dcf604390f0c7519162ad3f8&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="🐧┃卫视频道┃🏡",香港卫视
+https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="🐧┃卫视频道┃🏡",北京卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="🐧┃卫视频道┃🏡",北京卫视
@@ -1572,9 +1576,9 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="🐧┃卫视频道┃🏡",东南卫视
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000519/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="🐧┃卫视频道┃🏡",东南卫视
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="🐧┃卫视频道┃🏡",东南卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="🐧┃卫视频道┃🏡",东南卫视
+http://[2409:8087:1a01:df::4035]/TVOD/88888888/224/3221225950/main.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="🐧┃卫视频道┃🏡",甘肃卫视
 https://hls.gstv.com.cn/skt649/w0w7k2.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="🐧┃卫视频道┃🏡",甘肃卫视
@@ -1746,8 +1750,6 @@ http://[2409:8087:74f0:22::7]:6410/270000001128/9900000027/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🐧┃卫视频道┃🏡",河南卫视
 http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=99c4a1d32dd3e4e73d3e83f6bed5c001&wsTime=1747101617
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🐧┃卫视频道┃🏡",河南卫视
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🐧┃卫视频道┃🏡",河南卫视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🐧┃卫视频道┃🏡",河南卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
@@ -1755,6 +1757,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/32
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🐧┃卫视频道┃🏡",河南卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🐧┃卫视频道┃🏡",河南卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226320/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="🐧┃卫视频道┃🏡",吉林卫视
 http://z.b.bkpcp.top/m.php?id=jlws
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="🐧┃卫视频道┃🏡",吉林卫视
@@ -1772,8 +1776,6 @@ http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBP
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="🐧┃卫视频道┃🏡",吉林卫视
 http://[2409:8087:74f0:22::5]:6410/270000001128/9900000030/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="🐧┃卫视频道┃🏡",吉林卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="🐧┃卫视频道┃🏡",吉林卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="🐧┃卫视频道┃🏡",吉林卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225851/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -1785,6 +1787,8 @@ http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225851/index.m3u
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="🐧┃卫视频道┃🏡",吉林卫视
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="🐧┃卫视频道┃🏡",吉林卫视
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221226397/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="🐧┃卫视频道┃🏡",江西卫视
 http://z.b.bkpcp.top/m.php?id=jxws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="🐧┃卫视频道┃🏡",江西卫视
@@ -2247,6 +2251,8 @@ https://345iptv.com/?act=play&token=dc1bc1fa919aba49d4719d69c838fcfa&tid=gt&id=5
 http://php.jdshipin.com:8880/smt.php?id=jade_twn###HLS\\n
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" group-title="🦄️┃港·澳·台┃🔢",TVB翡翠台
 https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
+#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" group-title="🦄️┃港·澳·台┃🔢",TVB翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="🦄️┃港·澳·台┃🔢",tvN
 http://j.s.bkpcp.top/js/tvn
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="🦄️┃港·澳·台┃🔢",tvN
@@ -2269,6 +2275,22 @@ http://jxiptv.dpdns.org/stream/tvb/popc/master.m3u8
 https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
 #EXTINF:-1 tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🦄️┃港·澳·台┃🔢",PopC
 https://011v4.pendy.dpdns.org/stream/tvb/popc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🦄️┃港·澳·台┃🔢",PopC
+http://jxiptv.dpdns.org/stream/4gtv/popc/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🦄️┃港·澳·台┃🔢",PopC
+https://iptv.mydiver.eu.org/live/encrypted/OTU2ZjdiNWM4YjMxODI4NDRhNmZjZTYxYTk0M2I5NzI6OWJjYTgyYjBmMjI1OWRmNDRkZjRkZmRhMDNmNmE5NzM3YzE2MzVlMzQ3YWYwZDY4Mjk0N2Q2OWY5ZGE0Mjg4ZTAxNzhmOTNmNGNhM2YxMTg5Y2Y3NWM5MDQxYjYwMTM2ZTJlOTFiYmY5MzU0OGNlYzNjZGRiM2ZkMDVhZDEyN2Q2NmZmMGY2MzQ2OTIwZGNiZmZhMzdkMzU5YmQ3MmNmMGEzMjNhMjAyMDVjZDMxNzYyMjM2MjNkZDAyMDRkNGM5MDFiYzA2MDIwN2RhMTgxZTdhOGU4OWIwZWFkYjUwZWZjZjE5ODc4ZGY4MmFiMjE5MDE5MDQwMDk1ZGQ3MDA5ODYxNTc1OTAzODc3YmQ3OGU3OGRiMTEyODk4MDE2ODdmMzFhYmYyYjAwMTA4YmJmM2QwM2VkYTZkMzEwMzkzZDE5YjA3OWE3MTg1NzQ4ZjEyYjI2MGFiNDI2YmZmYjA3MQ?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🦄️┃港·澳·台┃🔢",PopC
+https://iptv.mydiver.eu.org/live/encrypted/ODE1ODAyNWIyZTg4Y2Y2M2Q2ODA4OTQ4ZDBkYWRkZGY6NTZlNWRkMDYzYzc2Y2FlZGU3ZWY2ZDc1MTI1Yzc5MzBhY2U3OWZhZTc5YjRlZTU0ZDUwN2ZmOWFjZDA4YTE0MzAzZTRjYjBkZjU5YjI2NDdmMzIxNTczY2U3MzA2ODBjOTg3NGJjZjcwODBjZmEzZDMyNWM4OTkwMjRiMTkyZjg4MTRiYTQ5M2E5OTZlNDFmY2UyYjg2OWJhZGIxNDk0YTRmMDE1MDQzYTYwNmY5YzE3Y2MyMTFkMzU1NWQwZTNiODg0ZDNhMGU2Yzc5ZTY4YTc4MzI3NWZkYTJmYjU2NGFiYmQwMTk1MGVmYjQ1ZjA0MGRmZDc3NTQyZjMyMmU5ZWRmZmU5MzE0NGFhYjNjNDc1ZWI4YzIyMjVhMzNlOGM0ODI1YzU2ODQzZTM1MmViMWU3YzE3M2Q2MTUyNzlkNWM4MjAzMDBiZTgzZTEzM2YwNDg1YzYyMzQ2YWZjMTk3NGYyZmQzZjEzZGRjYjcwZDFkY2M2YTE5NDQxZDFjYzFiNDFlM2YwZGU1YWY1YTUyYWIwODYzN2U1Yzg1NWY3ZTQ4ZGFlM2VkYWQ4MWZiMTE3MzA5NzI3NGZmMDg2YTA3NzAyZjBiN2QyMzhjNzY5ZTM0Zjg5OTYyNDBiZWYzNTI5NmFiMDkwMTk1MzE4N2UzYTYyMGE4N2QyMTE5NjFhNmRkMjUwZDllNzMxZjVkYzhhYzdmNGQ1OTIwMDdmNjliNw?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🦄️┃港·澳·台┃🔢",PopC
+https://iptv.mydiver.eu.org/live/encrypted/NmRlYmQ5ZmZiYzZjNjgwOTc5ODY0NjY1YjQxNjU3M2U6Y2Y4ODhjMTFiMWNlNDI4YzRkYjZlMmQ3OGJkYWE3ZWEwMmViN2YxYTAyMzUwZmIyNDE1MGU3ZmQzY2U5MmMwOGZiYmY1ZjUwMjIwZGQ1MzBkMTExMWE3YWFkYjI1OWU2MmYzZWJlZDE3ZGE2NjYyYTMzZjFmZGViNDUyNzhjNDI1NWQwOGQ2OGU5YzFlYjZjODEyZTFlMTY5ODM1YjNjOWM4MjFjYTI0N2Y4Y2NkOWU2ODM1OWNhN2U5NTNmNjcxNThkODllMDMxMGM5MTAwZmZjOGUyYzIxYWEwYzMxYzE4NjNkNDAxOWY3YjNhZDkwZGY2NGY5ZGFhMTM4MzQ2NjA5YmMxMGIxZTcyM2M4MDM1ZGZjM2E0YTAzOGM2Y2Y5YjExNWViMTA3ZTU3MmNiZTA5ODg1MTE0NjI2MmZhNzg4OTc4OGJmNjgxNDE0OWZiZjVkYmE5N2Y4Mzc5ZTJlMA?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🦄️┃港·澳·台┃🔢",PopC
+https://iptv.mydiver.eu.org/live/encrypted/MmE1ZWE2MTYxY2I0ZWNiNzgyOTkxNGVlM2I5Yjg3ZTc6ZDc0ODdmNDRhMDg4Njk3NzlhNTRjYzNkZmRhMzJlOGFmZjA4NzNkNDA1ZjNhNmZlYTFjMDhlZDFmZTczMDZiZWM2MGZiYjk1MDk4ZGY0ZDUzMmVlZGQwMzdiMGE3ODQ1ODRlZDExOTJmYWJkYzRmNTkzNTk4NTNkYzQ1NTY0MDMyYmMyYThiNmNiNjFhMWUyNWVkYzY1ZDJlNzFmOWEyNmY4MjFiMzM5ZmQ3YWE0MGQxOWRiZDE1MmU5MGM1ZWU3MGM3NDE2NGNkMGMzOGU1NzUzOGQ4ZWQ0ZmYxZmU4YTI0N2UyMWM4NzYxZmQwZjgyYmU5NDc2MGFmNzcxNzE4OTYwNGFhOWU3YTdlNTFkYTE5Yjk4M2IzMzFlZDZhZDQ2M2QyMGM2ZTY0YzExMTliYWVkMWM5ZDZlNDE1N2E0ZTBkOGI4MDUwNWU2ZjY1NDI1MjY2YTFlZjI2ZTJjNGM5YTc4ZWM2YjYzNTUzM2Q0NGIxMjRlNzBkY2YwOTlkNTRmZDBmYTYwZTdkZDhmZjFkNGJkZDQ4ZGJkZTAxY2FiNDRkZTJiZDZkNGVjNWU1ZjVkOTFjZmZhZDZiZGUwYzdjNWMyZjdhYWQwZDkyOTdiNzFmM2ZiZTdiNGJhMGJhODUxMDUwMzllNTUxZjhhODIzNzhkOWYzOWRhNDMzMjU3YjFkZTk0NGE3YmRmMjVmM2Q1MTE5NDYzOWVjYjVlZTk4Zg?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🦄️┃港·澳·台┃🔢",PopC
+https://iptv.mydiver.eu.org/live/encrypted/NmFmY2FhYmEzZDY0YTdjNGZjNjRiYzA5ZWNhMDdhOWE6OWI1NGY3NjRiMWRiYWMzZDhhZjNlMGM5ZTA0YTc3ZmIxOTNlMTFkZmFkODZjNWQ5ZmUzNmIyZjNhMTE5YTFlZjI2ODU1MWU1NjQwOGVlNTE5M2QwNTI4NjllZjFlOTVhZTQ0ZmI5OGU0NTFmZTIwMDUxMWQ1YTViN2Y3NGY1ZWUwYzg0YTU4OTBlNTc3Y2FhOTMwNmJmMGU2YTk2NDJlZmYwZTdiOGUxNzJiNzdhYWIwNTJjZWExZmU5ZTA5MzQyODg3ZDVlMDg1N2ZiZGIxMjkxNjlmMjQ2M2MxYWM5YzU1NjdlZjg5MTQ5ZGQ4MzZiMjg4ZmE3NDdjOWU1ZjhkZjFhM2MyMjM0NjYyMDQ3MzFjNWY4MGU5ZWYxZmQ3OGE2ZTQ0MjJjNGFjNWI0ZWE2ZjdhNWZkZWNlOGI1NDhlOGUwNjFlN2I2ODdiM2Y5N2EzNGI1YWJlNDIxNjBmZmZhOA?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🦄️┃港·澳·台┃🔢",PopC
+https://iptv.mydiver.eu.org/live/encrypted/ODAxYmY3ODgyNDdiM2Q2NGUwOWM2ODA4NWE2ZTg5YzQ6YmI4YmVlYTE1N2E1Zjk3OWYyZDEyMGYyN2FiZmQwMzM5MWEwOTI3NmZhMjc3MzY1YWU1MzllZDcwMjIzN2NmZjg2NjZmMmVjNjFkYjBmYTMzYzhkMzNiMmM0ODcyODIxMGExYzJiMGViNzYwNjM4MjkzZjFjN2Q5OTRiNGZmN2ZmOTE0NWYyOGU0ZWE1NTcyNWEyZjE1NTZlMWE4YjQ2MWYwOWViMGQ0MTE3YjVmMGU4YWE5OTI0NDdmZjU1YWM1MGM0ZDUyYjcxOTlmNDBkYmU5ZjY1MGZhMDJiNTg2YjNhYjZmNjQxODliY2I1MTc1OGM2NTJiMzVhYzA0ODljODgyZDZhZTVjNGI4YzZkNGJiMDliMmIyZmZjZmMyZGE2YmY1YTgwMmRmOTE4N2IzZmU2NjdlYzQ4MGMxOTY3NWU0N2NiMDU2MDRmMmJmYTQzMjYyZjc5N2RmOGZlNzc4ZWFmYzViNjEzYmUxOWUwMGFmNDIxMzMxN2FjOGU3MGJhMTRjNjI0Nzg0Y2VlMzM0OTdjYTUxY2NmN2UwMDUxMGU3OGFmMjBlOTNmZjBlMTM4YTE0NDZlM2M3NzNmOTVhOTgyNDZmZjAxNmJlY2UxNGY0OWRhMWNmZjAyMmYyY2FhZjgyYTFmOGIwOGMxOWRhYTk1NDVlMjFjYmE2ZTcyNDdmZjI0YjZkMmZkNDA3NTIxNTE3NTQ5MDFiZTY5OGRiMg?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🦄️┃港·澳·台┃🔢",PopC
+https://iptv.mydiver.eu.org/live/encrypted/YjY1OGYwNjkwZDZhYjFjODY0ZTE3YjZlNWYyNDY5ZmY6YmJmMjYyMDNiNmJkZTk4YzYzMGRiMjAwMjg2OGI1YTJlNDU3YmVmZDI3NTk0M2YyZjRhZGVjNTJmNWY4NmJiNGViZjIxYWJlMmEyMmYxOTliMzU3NjUzYzkwMDY1NTg2NzE1ZTJmZmI5ZWRiYWRmMGMxYzA2MmEyYjQ4MWM0MTFhYzY2ZGEwOGJkMzllYjUxYjViODBiNDg0YTIzYWI2MWJkNGFlZGNhOGY3YmQxMWQwNzZmNDFiODZkMDIxN2Y0NjUzZGZiNmYxMDRlNzdhZjQ1YjFkNDg5Y2QxZTlhNWNlZDNhZGViNzRlY2FhNzc0Mjc5M2FlYzk5YmI2Y2JkNGQyMDBhMWZiYzRiMzc3MzRjODkwYjcwMDBiMDE3ODlhOWVmMjY4NzVkOWE4OWI0ZjBjZjFlNDJiNDYxZDM4NTQ1OTZlMGM3ZGI3YTdhNjRmNWYxZmM5OTY3Mjc0NmJmYw?username=tg_vnpu89z4
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🦄️┃港·澳·台┃🔢",明珠台
 http://php.jdshipin.com:8880/smt.php
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🦄️┃港·澳·台┃🔢",明珠台
@@ -2330,13 +2352,15 @@ http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="🦄️┃港·澳·台┃🔢",无线新闻台
 https://bxtv.587788.xyz/stream/bxtv/null-1/master.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="🦄️┃港·澳·台┃🔢",无线新闻台
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="🦄️┃港·澳·台┃🔢",无线新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="🦄️┃港·澳·台┃🔢",无线新闻台
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="🦄️┃港·澳·台┃🔢",无线新闻台
 http://php.jdshipin.com/smt.php
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="🦄️┃港·澳·台┃🔢",无线新闻台
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
+http://php.jdshipin.com:8880/smt.php
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/有线新闻.png" group-title="🦄️┃港·澳·台┃🔢",有线新闻
 https://stream1.freetv.fun/you-xian-xin-wen-15.m3u8
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/有线新闻.png" group-title="🦄️┃港·澳·台┃🔢",有线新闻
@@ -2375,6 +2399,8 @@ https://tv.iill.top/litv/4gtv-4gtv072
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="🦄️┃港·澳·台┃🔢",TVBS新闻
 http://smt.iktv.ddns-ip.net/Smart.php
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="🦄️┃港·澳·台┃🔢",TVBS新闻
+https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐.png" group-title="🦄️┃港·澳·台┃🔢",TVBS欢乐
 https://tv.iill.top/litv/4gtv-4gtv068
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🦄️┃港·澳·台┃🔢",凤凰中文
@@ -2432,11 +2458,11 @@ https://live.tvfix.org/live/fhzx/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🦄️┃港·澳·台┃🔢",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🦄️┃港·澳·台┃🔢",凤凰资讯
-https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🦄️┃港·澳·台┃🔢",凤凰资讯
 http://php.jdshipin.com:8880/xsj.php?id=phtv-info
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🦄️┃港·澳·台┃🔢",凤凰资讯
 https://cdn6.163189.xyz/live/fhzx/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🦄️┃港·澳·台┃🔢",凤凰资讯
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🦄️┃港·澳·台┃🔢",凤凰香港
 http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🦄️┃港·澳·台┃🔢",凤凰香港
@@ -2449,8 +2475,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php
 https://live.tvfix.org/live/fhxg/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🦄️┃港·澳·台┃🔢",凤凰香港
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🦄️┃港·澳·台┃🔢",凤凰香港
-https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🦄️┃港·澳·台┃🔢",凤凰香港
 http://php.jdshipin.com:8880/xsj.php?id=phtv-hk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🦄️┃港·澳·台┃🔢",凤凰香港
@@ -2467,6 +2491,8 @@ https://stream1.freetv.fun/feng-huang-xiang-gang-6.ctv
 https://stream1.freetv.fun/feng-huang-xiang-gang-3.ctv
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🦄️┃港·澳·台┃🔢",凤凰香港
 https://stream1.freetv.fun/feng-huang-xiang-gang-3.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🦄️┃港·澳·台┃🔢",凤凰香港
+https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="🦄️┃港·澳·台┃🔢",凤凰卫视
 https://cdn.163189.xyz/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="🦄️┃港·澳·台┃🔢",凤凰卫视
@@ -2496,7 +2522,7 @@ https://stream1.freetv.fun/feng-huang-zhong-wen-7.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="🦄️┃港·澳·台┃🔢",凤凰卫视
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="🦄️┃港·澳·台┃🔢",凤凰卫视
-https://stream1.freetv.fun/feng-huang-wei-shi-11.ctv
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰衛視中文台.png" group-title="🦄️┃港·澳·台┃🔢",鳳凰衛視中文台
 http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8
 #EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰衛視資訊.png" group-title="🦄️┃港·澳·台┃🔢",鳳凰衛視資訊
@@ -2567,6 +2593,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php
 https://tv.iill.top/litv/4gtv-4gtv017
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax.png" group-title="🦄️┃港·澳·台┃🔢",Animax
 https://live.tvfix.org/live/animax/index.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax.png" group-title="🦄️┃港·澳·台┃🔢",Animax
+http://smart.pendy.dpdns.org/Smart.php?id=Animax
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台.png" group-title="🦄️┃港·澳·台┃🔢",美亚电影台
 https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台.png" group-title="🦄️┃港·澳·台┃🔢",美亚电影台
@@ -2594,7 +2622,9 @@ https://011v4.pendy.dpdns.org/stream/tvb/cmam/master.m3u8?u=judy&p=213f2541f159a
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台.png" group-title="🦄️┃港·澳·台┃🔢",美亚电影台
 http://smt.iktv.ddns-ip.net/Smart.php
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台.png" group-title="🦄️┃港·澳·台┃🔢",美亚电影台
-http://php.jdshipin.com:8880/TVOD/iptv.php
+https://stream1.freetv.fun/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.m3u8
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台.png" group-title="🦄️┃港·澳·台┃🔢",美亚电影台
+https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
 #EXTINF:-1 tvg-name="美亚电影粤" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影粤.png" group-title="🦄️┃港·澳·台┃🔢",美亚电影粤
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="美亚电影国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影国.png" group-title="🦄️┃港·澳·台┃🔢",美亚电影国
@@ -2635,6 +2665,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp###HLS\\n
 https://345iptv.com/?act=play&token=e3bdcc55bbc8bbcfb6e04b9f98407c95&tid=gt&id=8&p=0
 #EXTINF:-1 tvg-name="myTV SUPER FREE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/myTV SUPER FREE.png" group-title="🦄️┃港·澳·台┃🔢",myTV SUPER FREE
 http://jxiptv.dpdns.org/stream/tvb/mytvsuperfree/master.m3u8
+#EXTINF:-1 tvg-name="myTV SUPER FREE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/myTV SUPER FREE.png" group-title="🦄️┃港·澳·台┃🔢",myTV SUPER FREE
+http://jxiptv.dpdns.org/stream/4gtv/mytvsuperfree/master.m3u8
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png" group-title="🦄️┃港·澳·台┃🔢",J2
 http://php.jdshipin.com:8880/smt.php
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png" group-title="🦄️┃港·澳·台┃🔢",J2
@@ -2681,6 +2713,8 @@ https://live.iill.top/youtube/MV9mI0GChwo
 https://stream1.freetv.fun/san-li-xin-wen-7.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🦄️┃港·澳·台┃🔢",三立新闻
 https://www.youtube.com/watch?v=FoBfXvlOR6I
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🦄️┃港·澳·台┃🔢",三立新闻
+https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="🦄️┃港·澳·台┃🔢",东森综合
 https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="🦄️┃港·澳·台┃🔢",东森综合
@@ -2755,14 +2789,36 @@ https://stream1.freetv.fun/amcdian-ying-1.m3u8
 http://php.jdshipin.com/amlh.php
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门莲花.png" group-title="🦄️┃港·澳·台┃🔢",澳门莲花
 https://tv.iill.top/mo/lhws
-#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门莲花.png" group-title="🦄️┃港·澳·台┃🔢",澳门莲花
-http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
 http://docker.livednow.dpdns.org/4gtv-4gtv109/index.m3u8
 #EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 #EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
 http://4gtv.livednow.dpdns.org/4gtv-4gtv109/index.m3u8
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/MzQ0MTAyZmQ0NDJhYWUzMmYwMjliNzgyMzlkOGViMGU6MmViOGFlNDdiNzVlMjFlY2MwNTNjMTIwNTMzYzE1ODBlY2I0MzcwNmZjMzEzZDkyNWQwMmZmZGNlY2FmZWVhMzRkZTg4ODFjYTVlMmYzZTNmMTdlODA4MjZlY2YzZGM4NjIyOGUwYzhhNDM5NDNjZTExOTk5ODEyZDY0ZGJhNDY2YTVmN2EwYmY2YzVlZTE3ZTNlZmE2YjJjN2M4MWMyYTQzMDY0OTdkOTM3NDhkN2YwY2Y5MjYwNjAwYWMxMGVhMmY1MjJkZDA3MDljZTE1NjBiNmNiMjFiOTE0YjZkOTkwNjg5MTA1OGI5YTljYTRiZTZmODgzNGYyMjBhNmZlYzBiODFiNWFiZmNhZjg5MWFjMmU1NTRjNjY0MWE3NTEzNWUyMjc1NDQ5NzhmY2ZmMTAzNWRiZjM0MjM2MmMzZjQ0Y2VhNDk1ZDU1MWU1MmQwYzUzYmE0ZWI3ODNhMzU0MWNhNTZmMzgyMzMwYzFmYzcyMDI5MGI4MmIwYmQzOGEz?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/MWIxNDExMjBlZTgxNmVlYmQ1M2RmMWM4YzY1YmEyOTY6NGI0ZWE2YTQwMjMzNzU4Zjc4ZjQ0MGIxNDFkODRiNDcyZmQ4MzFiNjllMmI3NmM3MjQ0NWUwYWMxMjNmM2YxZmUyZWZlNzBmMDMzYmQ2NjQ0Yzk5MDMxZmNmMjg0MjA0ZWJjNmEyMDgxNmUyNjY2YmU2ZmJjNGY3YTI0MWZlNTZjMTkyY2FkZWFmNTc3YmY0NmQ3NWZkMTg2MjM3NjBmOTllYWI1YjlkOTQ4YWFjMDNhZWE2NzliNjEwNjVkZmQ3YmQ1YTBhMjZiOWNiOGU4ZGUxZDQxYjYxYTA1ZGM2OTRlOTc3ZmM1NzlhMDEwYjNiNWVjODFjMzk0MjY4NTkwNjIwYmYxNGQxMTdjZjg1NmM5NzBhMmRkNjlmMTFjMTlkMjUzMzBjOGYzOGIxOWVjMTM5NzRlY2E4YjZlZDhlMjJmMDQ4OWYyODlmYTQ4M2I3ZjhmMzc5NjU0MmQwYzVhMmNmMDg0NGZmOTZmNjliNTNkMmQ1NDdmYWIwODkxNTFiOTI1Zjc0ZWFkM2E5ZWY5ZTQ2NDUyNWZhZTFhOGYwODk?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/ODgyYTg4YTJhMTc2YmIyOTcxYTU2NWViZDc5NDllMzY6Y2M0ZjI0ZTI4Yjc5MzcyMTFlN2Q0MThlYjE0YTM1YzljODA2YmJiYTJhMzRlM2VmZDBhY2JkMDg3NjQ2ODhkMzdjMTcyYmNmYTI5NjIyMzgyZTcyODljZjZmM2M4ZjIwMGQ1ZmU1ZGIzNDVjNjVmZjM3ZDc4NDk1ODVhNTBkMDUyYmI5MGNiZmFhZDFlZDNhNzk0YTg1MjIzYjIzOTAzMDNiYjBiNWE5ZjFmYjA0YTAyNGQwZmEwYzlmNTI3YjVlZWJjN2QyYmVlNzYxYjIzMTgwZjYzYjIwMzc3MzZhMWQ0MjIyZjk4NmIyZmE5MTVlNzM3YjljYzIxZjJiMDc5NzIzYjE5MmUzZGRjMjYxOGQ4ZTZlMTRmN2JjZjJhNmVjZjQ2NjUyODcxMWYxN2FlYmVjNmFmYjY5NTQ4MzM4YTYzYmQxM2YzNjA3NTQxNjg1MDFjMWVhYmU0N2Y5MGRlMDk5YjIzOTg3NjExYjZjOWE1Mzc0ZTQ2NTNmNTJkZDk4?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/NjdiNWNjNzVlYjE0NTE3Y2FjMjI1ODllNmQyZDhlYmI6ZWUzODVlOTY5NzJhNTQ0Mjk4MDg1MjljNmY5NGExMzVjNjQ0OWZlZGY4Y2I1YWExZWRhMTI3ZDkzZTdlNDM1MGMyNzZhNmJlY2RlOGRjNzkzZWEwOTliMTdhMGZmNjBhMTk5OTEzNjlhNGNmYmI4ODAxODdjZTk4YzEyZDJmNjY1MmJhNjQ1MmZkZTIzZGMzNTc1ZGQ3ZmMyYzZmNmMyZGRhODI1N2I2NTcxOTA1NGQxYTkyOGU1YTk4ZmUzMGZhZWVkMjhkNTIyMTI1N2ZkNTZiZmUwODZlODk1ZDkzZjZkNGM1Njk0ZTc0ZGQ4MWYwYmMwYmYzMjUwYTk4M2EzODFiYzY4MTNiOWM5NDFjNzY5N2VjODhmODQ1YmU3MDFjZWVjOGNjY2FkYWVjYjZmOWJlYzUyNmI2ODRkYmJhMTZiYjc2MDMxOGRkN2FiZjg2N2Y2NDQ5OTVjZjJjNTgwMjI2NjQyM2Q2MTNhZDc1NTcwMGQ4MDFlOThjYmY0ODgyN2ViMzMxMDllMmM4NTg0NTExY2M2MjRmYzQ1Mzc0NGY?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/ZmZkY2VmNTQzMjA5MDkyOTA5M2MxOWFkN2ZkMjc1N2Y6ZDdjMzgwZmFiNTdjYjMzNDczMGQ4ZjNjODVkMzNkMGEzMGVjOTEyNDFlODU1MTdlMjRhZTBlOWRhYTMzMzA4YzE3OTRmYTMwZGRjZmU0Zjc4N2EzYjlhYWFhMTk4NTkxNzA5OTE0NjgxMjdlNmFlZDNiY2Q4NWQ4MGI4Y2M0Yzc4YWVmNTFmMjgzYzE1ZDM2NWZjN2MyOTUwZTM2YWU3ZWU0MTE3N2UzNjZhNDNlOGNmOTFiOTcxZGM2NzY0MzM3NmQ2ODNkZTQyNDg5MjVmMzJiZDE2YWJmM2FiNmViNWRkM2Q1MjgzOTcyNjI5YWI5Njk5YzY2ODMzMWY4ZjU0OWM0MzFjZWY2YjE3NmQzOWViMjE1NjQzOGU1OWQ4NjNiNzFhYTQ0ZmVhN2FjYTdhODQzODcwNzcyZjEzODc3MTcxODBkNzY1NWI4YTQ0M2ZmNmRjNGViMzA4NjFhYTIyNWE4YzFjZmFiMmI1YTViYTM1YmJmMTgwNWE3Y2Q1NTEx?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/MzY2ZjFlYmZmZjk0OGQxMjEwZTM2NTdhZDI4YWY5NTE6YmE2ODI1MDliZmZiNWFmZmMzMjE4Yzk2MmU3MWVlZjgyYjRlM2ViNWJiNTYwZjM0Njk4YjkyMTE1YTIwNWYxNmZhMWM4MzFkZTIwMDU2ZmE4MzEwNGM2OTIzYzY1N2U0OWY0OGRkMGRlNTcwMTM4NzNiZjI1MDQ3ZDZiZjRjOWE0YWRhYmI4NzlkNDhhNWY5ZTI1MDMzZmIzMmI3Y2Y3YTRhYTRjNmIxZmRmYjM4MDQzM2YxMjU2YzY2MjM0YmRmM2JjOWM1YTZlMWU2YjQ3NWYwOGQ3YWQwZmMwODMwZWE0OWE2N2M3OTMyZjVkYjEwMWRiY2RmOTJkMWIxYzZkODAxMGJiOWRiMzExZmNjZmVmOTUxNjVhNmQwMzY4NjVmNWRiNjZiMDVlNDQ5OGNiNTFmMTJkNGM3NjhjZmY2ZmI3MzY5ZTBiMjliOGYxNjJiODMwMmU0NzdjNWEyM2E4YzczNGYxNmI5ZmIwZjZmZGJkOTdjNzcwY2FlNmFjODM0N2MxMWFhOTRjYjZlOTQ4YmI2MDQ1Y2NlNGM2ZDQwZmE?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/MzYxYTQ0ZGY3Mjc0YmJkZTVhY2ZhNmMzYjQ5OGE3MDk6ZjZkYTljMzBhMmNjYjM0ZDg2YWQ4ZWNkMWY5MTNhMDYxNzFkZWRhYzM0YjRkNDdiNDE2ZjA3OGM5MDA1NTlkMDE2NTBjMGI4NGIyOWY5ZjllYTIyZTU3NDRmN2E0YjAyZTljZmM3ZGY0MjE4ZDQ5MjA4NmYwMmRhMTA1MzgwMTM2ZmRkMzljNTBkM2IzZjgyNTM2NDUwZGQzMmQ1ZGM0YTQ5MjBjMzYzNTAxNTg4NDQ5NThiYzIzMjVmMzJiNzQ0MWQ0NjExZDM1Y2Y0MDFjY2I0ZmE0NjMwMjE0MjI0ZjIyNTc2NzdjYTdmYTI0NDk2YTQyM2U0OTM0NGUwNjUxMjUxNjhkN2YwNzdiYmZjMjgzM2RjMDQzMTJkZjFkNzU4YTM1NDZmMjdlYmMzM2IyYmI2OTRmOGVlMzgyNzkxZjY1YmYwNDJjMWM4ZTBhOTlhMjgwNzQ2YzllZjA2NTgyOTY0MjhhOTJkNzU5MzU4ODk4NmIzMTA5ZmEzNWY1OGQ0?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/MDAwNWRiZTA2MDQ1ZGYyYmY5M2YwY2M4MGY0MTI4MzY6ZDU2YWZlYzFkZWFlNzRhZGExOGQyYzdmOWE0ODRkYWY1MWQyN2NmOTc1ZDY0ODYzZGU0ODY1YjFlYzNlNTA2NzY1ZmZiZDA0OWNkZTUyMWRjZjA5YTFhOTRkMzJlYzRhNDQ4NjViZjc1Y2E2OTE2ODIzZTVhYTU1NDRmYjI2NGYzNTNhM2M1YjZjOTFjNDkzZDBlMGYzYmU2NDE1YmE3ZjJiMWNhMzBjYWJkNWM1OWEyN2JlYjhlNTMyYWE3YjM0ZjZlYjZiMGEwNzg3NWUxOWVmY2I1MDVhZmRjZDM3N2RkZDY3YTJkZjY5ZTc1OTkwYzViNTE1ZWYyZDI4ZGU0MTM3MGM4OTM3ODkzMjY1MjU0YTk0MGNhODc4M2YyYzA2NjhmNGE3ODMxZTM0OTBlZTZkMjcxMTU1ZDUxYjI5MmVmN2E4MTczMTJhNTMwYTYzMTQyMzkyNTBmMjRkMDlmYTAxYTdkYmVhZWYzZjU5Nzg3MDdlNjc1ZWEyNzYzZDEyMTYwYzEyZGRkMzAxMjBkZTZiZGRmODhlYWZhMTczYzM?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/NThhMThlMTRjN2FkODI3MzczNjlhYTcyMDE1MTNlNzI6YjJjNWU3OTg2NGRhNTQ2YzE4ZWRiYjE3YzQwZWU1NDFmMDdjZGNhYWU4ZjdhNTlmNjRiNjlhNWQ4Yzg2YzM0NzBjZjYwYzQ0ZmVhYmM2M2U1YzRhNmUzYjJjMjkyYzlhODM5ZGUwNWM1ZGYzNjQwMzdjMmM2NzA5MzZmNjc1ZDZjMmY4Nzg1MTNkYTZhZTZkZGQ1NjAxMzRiMWI2ZGI4MGRjMmMyODQwNzRiZjY5NDBmOTA1YmJmYTNiNTBjOWFkZjNjNjcxMjhjYmIyN2RiYzZmNWNkZTc0YzZjNjAyNTBlNTgyNjIwZmI5MDY5ZmY4YTRjZWJhNDkwMTY2NmVmMmEzMjU5Y2RiNTk1NDE5M2Q3YTU4MDA2NjNlNzRlZWY4NjU1MWJjNWIwY2Q4MDJhZjZjNmI5OWViNmRjZWIyNjJiYWJlOGFmOWViMmMwNjU2ODFmYTA3MGUyY2U0ZmVlYWFjMTQ4Nzk1NDFhNjI1ZjZkMTFlMWQ5NGU1OTU2OWUz?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/NjZjN2U5MDE2OGRlZGQyMjUyNzQ0MWFlOTI3Zjg0YTM6MGM0OWQxODE5OTg2Mjg5MTk3MzYzMGRmZjBiZGYxNmQwZWM0OWRjNjI5YmZjZGJiNWU1ZTIyODczZTU2NWFhZmU4NGFkNDNmMDQ1M2U5ZGI3YTNjZjhjZjhlZDVhOGZlMTMyYjE4NWY0Y2MyMDEwOGYzM2IzYTM3M2M4YzY3ZmE2ZTg1YmUxMjZlYjI2MjkxZjRlMjJiMTg3ZGUwODIzNmY4NTlhMTlkNTc2MGU3MzQ4OWQwMGU5NjczZjVkYzkwNjI5MjY1M2ViNjhmNGNlZDZmMGU5YjBmMjAxNjkxYmRjYTA3ODc2MmE0ZTZlZTJlNmJlYTliNzhjNjRiY2I5NmNhZWJiNzg5ODFiNTY2YjA1ZWI1M2VmYTZlNWFiYmNjMDQ1MGJhOGFjNGE3ZDgxNjRmNTMyYWNkYzEyZmRiNGViMjZkYWQwZjYxYjFmN2ZlNzg1MjE5ODFlODczNDRlNjkwNGE2Y2YzNzQ4YTcyMjBhZDljYWM2NjUzZDdhYWQ1M2Q5YzVjMzVmNDAxYmQyZGYxNjJkYjgwMGI2MzdkMDY?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/NzQ0Nzc2MmEzMjkxNWIxZTE1Y2I1ZTgyOTMyYTQ3ZmY6MWIyM2VjYTNhY2Q0M2U1OWJmOTIzNjg3NTAzMmYwYzk0ZGVlNDhkNjNmZGVhMmIyZDQ0MDM0Mzc2NTY2Mjk2OTY0ZDRkMzU0OThiNmUzODgwZTZkY2QxYzBjOTU5ZDI3YWIzMDYyNWVjNjRiZjljMjg1ZGY2NGU5NGI5NzgxOTlmNTQ4MDY1ZDBiODk3ZjFjMWI5YTc0ZDU1YTQ4NjljMjA3MTUwOGMyNzYwZTAwMjAzY2UzNzUxZTFkNTNmZGJjNzYwYTdiMjI2NzFmY2JmOGY0YTRjMjhiN2EyNjE0YzM4MWMxYmZhNTg4MmQ3MzhkMGNhZWZhNjVjZThjMDE1Njk4OTM4NGI2YjVjNzcxYmQwMWZmZGM5MDY2ODc0ZmVhNzQyNDY4ZGE2N2QxN2NmZjBlNjg3YWY0NzhkMjQxMTJlYTg5MmFkNDUyY2ZjYjczMzA1OTNiYWMzNWRhYTY2MzQzY2ZlNjVjMDk5MmUwMDFkZDM5NjhmZTA4MDVmN2Mx?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🦄️┃港·澳·台┃🔢",中天亞洲台
+https://iptv.mydiver.eu.org/live/encrypted/NjgzMDkxOTQ3ZTg4OGIzMjdhNGZhZDMwYmQyZGY4MGU6MjA0ZGUyYTQ3OTU2OTljYmE5NTJjYjlmOWEwMmVkYTdlOGJlMzdiYjY0ZjkzZDEyNTNhMzExZmQzZWJkZjUxNmNkNTVhYzFjNTA5OWI4NDVlZjhiZjNhZjBlMzQzM2IzMTZmY2ZlN2RmNzRkNjZhNDc3ZmE2Y2Q0NThmOTc4ZTFkNTlhZTg4MWU0OTI3MTRhMTIyNTA1ZDE5ZGYzNGY2YzViMDE2ZmM3NTBhMGJkZWI0ZmEyNmFjOTk1YTdhZDE2YWEyYzNmYTQ0NjdmMjNjN2ZlNjkzMWMwMTJmNmYzN2MwOWRlODc5ZjUzMjNhZjU1NzFkZGRiMDBiMWJhMWMzOGIyMWY1Y2IzYTkyNWU2NGQ0MjEwNDYxNjcyM2VkZDZmMDg5MDExNmNmNGQ4Zjk2MTRkNjAyYWZmZDc3MDg3MWVmNzFmYTY4MGE0MDA0ODcyNmI3MmNiOTJiNGY2ZmFkYjRhMjUwMGUzOWJhMjk0MDRhMjQ1MjYyZGViZDI1YmEyZjY4Y2M3ZTJlMzJiMGUyY2I4ODliMWM1YjI1NzJlOTc?username=tg_vnpu89z4
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🦄️┃港·澳·台┃🔢",中天新聞台
 http://docker.livednow.dpdns.org/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🦄️┃港·澳·台┃🔢",中天新聞台
@@ -2789,6 +2845,20 @@ http://4gtv.livednow.dpdns.org/4gtv-4gtv040/index.m3u8
 http://4gtv.livednow.dpdns.org/li-4gtv-4gtv040/index.m3u8
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🦄️┃港·澳·台┃🔢",中視
 http://4gtv.livednow.dpdns.org/of-4gtv-4gtv040/index.m3u8
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🦄️┃港·澳·台┃🔢",中視
+https://iptv.mydiver.eu.org/live/encrypted/Y2Q0ZmE3NTYyOTZmNGE1NGQwMmExYzhlNWQyMTFiYWQ6NmZhYTI0NDYzYjc1NDYyYTJlMjJkNDJiMmU3MWQ3OWU5MjY5MjZjZDk2NGU5OTFkOGQ2NDlkMDc0ZjNlZWI4NDE0Y2M0ZmQzMTYzNzc2ODUxY2Y5ODAxM2I4ZjRhZjkxNmRmMDVjNWZlYzNlOGZlZWI5YzNmMzU4MjI5MWRkMzNiOThiNDViZDFjNGE3ZGIzOTIyNTkxNDAyMzFiYzU5MWI2ZTI0M2FkYzVlMDEyMjZhOTQzNDZhNjZiODdhMWViZmYzYmE2YzY0ODJhMTNmMDE5MjFiNzI2YjdhNjIzMWVkODY0ZWNkOWU4NmZmNzkwNzBkMDJmNzYyOGQ0NjYwNjViYjkwYWIwNWZlMTkwMzVhMGZmYmYxOWIwMDE3MmExYzIzODgwZGUzZGUwZWE1NmU4Mzc1NmZiYjJkMjE5NzIzMDQyMGM1MWUyOGQxZjExNmY3NzY4YWFjZmFiOTRhODY1YTkxOWEzNWU5YTgzZGEwMjhjYjUzOGVkZDY0NmJm?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🦄️┃港·澳·台┃🔢",中視
+https://iptv.mydiver.eu.org/live/encrypted/Mjk3NDI5MjI4MGQxMTIxMWMyOTA3OTNmN2Y1MGNmYjc6M2JlMmU5MGRhMjJkMjEyMWY3OTBkOGYwYzMwZDhmNzkyZTM0MTc5YmU4ZDQ1MTBmNWVkYWI3Y2E4NjkzMjM4ZTJkOWU5N2VjMDRlZDcwODJlNzA0YjhkZmE4MTEzODFlY2RhMjA0ZWIzYTRhNTY5YTlkZmNhZGI1OWNlMjhjMzRiZGFkYjg1MDQ4YTIyN2NkMDJkYjNmNjlmZjFlMGU5N2ZjMTA1ZDZmMmM5OTVmZTA0NzQwNDk5N2QwMTlkZTVjOTNiYjVmZTVjNmNhODFhNTcwOWUxNzlmZjc4ZTMxMGY1ZjY3ZmM4YzI2MmUwYzM0ODZiYjM3MWJhMTQxM2Q4MzUzOGIzNzgzOWZjM2E1YzliNGE1NGQ4Mjg5Y2JjZGViODlhMDE3MTViMjg0YWI1ZjAyYjgzNDZkY2FiOTY1YmFiNzBmMGI0MWQ4MWRmNmUzNzhiNDJjZmRjMzNiYmNjNGFjMTc1NjYxMjhhNWQ5YTYwYTdiN2M2MTg4Y2FiMWE1NGQwZjU5MTNkYmRiYWM4ZTkwOTAwY2M2MjdjMzJiZmM?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🦄️┃港·澳·台┃🔢",中視
+https://iptv.mydiver.eu.org/live/encrypted/YjMxNTVmZDJmYzU4YTRmOGUwZmRjZTIwOGZiMGIyMmI6NTcxMjBkMjdlNmVjNWU2NTJmNjJlMjg4OTdiYmVhMzlmNzU3Zjc0N2MwYTc5NzI5NGJjODFhMWJjNmYzYWY2NjQyZmJlZWU3ZDk3OTExMzM3ZTA1ZTZkMmMwN2MyNDAyNjI1YjVjZTMxZjg3ZTZmOTU1NmJiYmNkYjMyYWFlYTk1YmQ1NDJlMjkyYjkyMzgxYzRjNDNjZWRiMzRlZTc2MmNhZTkyZDc1NTEyZTdhYWQ3NjVmYWZkNmYxNmZlYWY3Yzg3ZWE5NTJlMWM1MzkyYzk0NjNhYjk3ODM2NTA2MDNiZGViMWRiNmY0YWU1MmMyOWVlMDNkMTQ1YzI3MTc1YWIxZjQyYzFiYjZlMzBmNzA3YjJlYWNiY2Q3YzJkNDEwMGUzZjQ5NjU2MjgzNjM5Y2E2ZmQxMzAzM2E0NGQ4NDkwNzFjMDljZWZhYzY0M2EwNTY5NzY2MzlmYjJmZTc1YmFlNmExNTg2YTM4MTM0N2MyYTgyNmFkYzdmYjUwZmJjYWM0ODUyZDkxM2E4ZTI4NDkzNzI2NWYyNTEzZWFmNDA?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🦄️┃港·澳·台┃🔢",中視
+https://iptv.mydiver.eu.org/live/encrypted/ZGZlMWJiN2U3MjdhNTFmMDNmNmZkY2E5NWNlMmMyMDY6NWY5YmMwMDM4NWFiMDY5MzVlZGNiZWRiYWUxZGZkMWU0ODRjNmJlZDQzODlkYzA1YjgyYjNkYjE5MmMxYmE1NWViMmM5NjY1MzQxODM4ZjkwNTM5ZGU0ZDMyYmIxYzE3ODk1NjczYzY2OGQ1N2NmOWVhOGZmMzZjY2Q0NWExNmZkZTZjYzQ0MTAzNzMwMjZiZjI3MTYxN2VhMmM5YmQ3Yzc5MDgxNDRjYjRjNzZkN2FiZmZiMTY1YzU3YmUyOGUyZDcyY2Y2MjJmYjgyNGNhMWFhM2NkYzhiMzU3MGUwYmFhN2Q0MDFhZjhiOTc2ZjgyNGYxODE3Yzc5ZDM3MDA4YjJmZjc1ODk1Y2EzZjQ4ZmJiZGYzYzIzYTUxMjQ4YWI3ZmRhMDA0M2Q2M2YxZDYyNmU5NmNkMTgzNzc2NzJlYmQwYmI4NDAwNGQyZGQzMDM3YTc0Njc4M2ZkOWEwNGJjMWI4YzNiODY5MWEyZjI0YTYzOGQwOTk5ZGZhMjFmYTQ1?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🦄️┃港·澳·台┃🔢",中視
+https://iptv.mydiver.eu.org/live/encrypted/NzNlNWFkZjc3OGI5N2JmNTk4ZjkyYWE0MjgwODgwOWY6ZjlkNzhhNDdiMDkxMzgxY2VkZjU1MDg0Njc1OWI3ZDA0OTc5MTUyMzQ1MTNiZTcwM2RlODE3M2FlZDQ4OTA3ODM1M2UwMDg3YjE2NzVlNWI4ZWI2YmQ3NmQ0OGVjY2FhMTVlMDhiZGI2OTFjYjA4ZjMxYjcxMjk2OGY0YTU0YzQzYThkYmI4MjdkYWNhMTg2NjhmNTVhNjE2MjVmMDc0NDIyOTUyMzA2MmRjZmQ5MzM5YjhjMDU1MzJlZDFhZjA1ZmM5YjA1MDAxZGNkNTBlMzI1NTZhOTA1ZTM5ZTFhM2EzZGU5MTMxZjJkYWQ0NGUwMTQxOGJjODNmY2FhY2NkOWZmZWY0NzA4NzQ1YzljYmUxOGNkMmVjN2YxNDY0NWE3NWFlZTk0ZjQ0ZDgzZjk1M2U3M2Y3MTE5ZmRhNTgzZjkyMjAzMDk1M2Y1MDMyMDFjYzMzOGVjY2U5YjUzZmU4NTNmYTAyYWFiZDhhMzAyNGE2MWViODUxYTM4YWZlMWVj?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🦄️┃港·澳·台┃🔢",中視
+https://iptv.mydiver.eu.org/live/encrypted/NDQyZDRhM2VhZWJhYWMwMGYyODJlNzM2ZWQ5MWU4ZDc6NmU1ODRmYjQwYzZmMmIyNWJhMDQxYTA5YmM0YjhiZTQ0OGIwNDEzMTUxYzMzOWJiYzQwZGE0Mzg4ZjNiMTMzYTZjMTQwMGJjYTQxZjczYTlhYTE4Y2Q5NjcxMTJiOGIzYWJmZmJmNjIyMTA5NDEwYzdiYTFiODhlMWM5ZTM2NmVjNzUyY2QyNDQ0OTkwNTI1OWU1MTM5ZmM0NDYwMGMyMWM3MGQ1ZDU0ZGNiNGE2YTgxYjg5MGNmZDRkMDM4ZGFkZWU0MGMzNTliNTY3ODExYWJkZjE1NzExOTRiMmI0ZTY2MGM1NGFkOGEyYzMxNGY1YzNjNzQyNTNhNTdjMmUxOTQxMzg4ZmIyNTIxNTM2ZjgwZGFlYWY2M2I4MTc5YTZkZjkxYTRlMWY5MDJhOGMzNWIyNWMwMGI1MWEyODE2ZWUxMWU3ZDhhYjMxNDFhMTFhNGNhYzhjODI0MTM5YzYzM2Q2ZTdlZjVhMzI1NjU2MDY0ZWNiZDVjMjE0ZDEwY2Iy?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🦄️┃港·澳·台┃🔢",中視
+https://iptv.mydiver.eu.org/live/encrypted/NWZhNjM3MDg1Y2M0NDY0ZTRlYTQ1YWVlNGQzNTc3NGY6MGQwZGM3NTJlNGU4YjM3ZmM1Nzc4ZmU5NjcyYzcwZjlmYjhlNWM0YjRlYTBhYTI0YmY5NzM1ZWUzMTU4OTFjZDg5YTM0OWI0MGZmYmNlMjliOTM3MDI3NjMwMGMyMmU4MzViZWIzYWU4ZTMyMjk4YzBhN2ZiYjUxMTQxZTc4YWEwNDI3NjYyOGMzM2FjNmRkMjljMGEwMjczNTZmOGRmOTYyZjIxZjAzODEzNjY3MmIwN2MwZDdmOWRlOGIwYzAxMTU4ODY5MDAyMWUzODgzMmIxNGVjMWE1MzExNTk2NjA0YjZhZjBiOWQ3NWJiNTA1ZmY4Zjk5MWI0NWM2NzdhMjEzNDk0NTFlZjBiN2U4Yzg3ZTkwZWM4MDhlOTkyOTY4NGQxZDE0ZTdhYzdiYTVkMWRkNjA5MWMwNGI3YWZhN2RmNDZhOTUwYWIwMTlhMDZiMTI1NzFjMzgyMTdkMzNiNzBlMjcyMDhhNGYwODJhMDY3OTYwNjVjNTlkODgzNTE3?username=tg_vnpu89z4
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/千禧經典台.png" group-title="🦄️┃港·澳·台┃🔢",千禧經典台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🦄️┃港·澳·台┃🔢",華視
@@ -2805,8 +2875,26 @@ http://4gtv.livednow.dpdns.org/4gtv-4gtv041/index.m3u8
 http://4gtv.livednow.dpdns.org/li-4gtv-4gtv041/index.m3u8
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🦄️┃港·澳·台┃🔢",華視
 http://4gtv.livednow.dpdns.org/of-4gtv-4gtv041/index.m3u8
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🦄️┃港·澳·台┃🔢",華視
+https://iptv.mydiver.eu.org/live/encrypted/MDRiMDYxZWE2YTljYmYxZDQ2MGQzYzI5N2E0ZGI4NDI6MTZiNDgzYjczZTg0MDBlZWE0MGEwYTgwY2E5OWI4YTk5MjgwY2U5NWYyZWMwZmU4N2E2NmIyOTEwYzQyMzU1MjUzYzAwMmU3NDBlZTBmODZlOGIyNjQ0YmRlZmZjODNmMWZmMGQwMmEyYmM2YmM4NDUzYTI1NTg4OWY1YjMzYTVhMGFkOTMwMDNlOWRkZmU4YWI2ZDBkY2E2Yzc2YzAwZjkwMDc2ZjNjMzczMzBmZjhiZTk4YTYyZDM5YWZlMTZhZjk5MDAzY2U1ZWVkN2Y2NDRmMWNkOTkyMTAzNDQyYzIwN2Y1NGQ0MDQ0ZmRiYjdlZDBkYjVkNWQ0NjdiMTUwMjg2Y2M1OTZiM2Q5M2U3ZjQ0Yjc4YzI5ODVjODAyN2FjNzIwNGEwYjA3NzdkODVhM2IyMWFkNmY5NmJiMzA0ZjBmNmMzODRiMzJiMjhjYmNkNTQyNzI2YjNiNGQ1OTRmZDNiZGIwMjM0Y2Y4ZTFjM2IxMzEwYjk3MTUwM2VkYTYx?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🦄️┃港·澳·台┃🔢",華視
+https://iptv.mydiver.eu.org/live/encrypted/ZDU5NmE2YmI3NWYwNmYzMzY1YTllY2FjYmYzZGNkNmE6OWM1NDk5MWU5NjEyOGJiZDJkZWI1ZjRlMWE1Yzg4ZTRmMGRiNjkyYmYzZDliNTJjODUwYjE2ZWZkZTg5ODQ3M2Y0ZjhlNzg2YTg1ZDdkZjQzZTNhMmM0MGUyN2JlYzdiNjI2MjE1NjJkMTU3YmY3N2M0ZTcyODE0MTZkODJkMzgxYjUwM2JmMmVkYTZhOTBkZTc3MDcyNTcxMTFlNTEyZDM2MmE4MDQ0Y2EzZWExOWI5NWMwMThjOGJmODQ5NWQyNDU3NWU2ZjYyMmU1YmUzMTBkNzllMDhkZmUzODI1YmIzZmZhNDI1NWU3ZjFiZDBjNjMxZjRkM2MzN2FkZWU0MDhiMjk4NGQ2YTUxYWE3MTkyNDlhNzExNDlhNTI3MzliZTE5YmVlMDE4NjU1MjIzMGI2OTk3ODc1Y2UxMDhhZTkwMmJiZWIwMzdlMjVkYmE5N2MyNTNlNGQ3MzljZmQ2ZGE2NDgzY2Y0Y2I5MzQ5MzY3MzE5Nzg3YmZmY2Q3ZTE3MjFhODdmZDYxY2Y4MjI4ZGY5NzVmNWJhOTViZmQ3ZjQ?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🦄️┃港·澳·台┃🔢",華視
+https://iptv.mydiver.eu.org/live/encrypted/MDFmODNlNDZkZDM3ZjlmMWY3NWRlMWFmNzRkMTliMWM6NGZhNWY2M2IyYjUyMzc3ZDNhYTYxNGQ0ZDYxNDBmMDc2NGFiZTk0MDFhMzIxMWNkYjk5OTczNmY1MmZhMjMzNWZiNTNjZmUxMGUzMjg4ZDRhNjI1MWI2MDdhNzhiYjAzYTcwYjhhOTYzY2UzMGUyZDNlZmEyMzhmMjg5NGYwNTNkM2ZmZTc5NzU1ZTY2YmYwNjRkOGYyM2U0NjFlNDNhMThlNGJlYjI1YTBhNmNkZmRlODRlZmU5NjYxYjZjN2VkMTgxM2NiOTAzMTJkZTIxYjkyZDRkYTk5NGIyZTRlNzllOGVhZTkxMzdmZDg1MjRkZTk5MGE0MTg3MmJhZjA4N2RhMjFlNzg4NWRlZTc3OGQzNjEzZGQ1ZTZiM2NhZTQwMzVhNzQ5MTc3ZDQ4ZjA5MTc5ZWM4MmY3NTM2MzcxZmRkMGJjNDAxZGExZTkyNWY2MjBmZWRmMTY5Nzk2MmFiY2FiZWYzYWI1NmNlMzIxMWEyYWFjZmJlODEzNGY4ZGE2MTJjMTVjNDEwZDI2MTZkNjlhZTc5NTcwNDJjYjg1MWI?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🦄️┃港·澳·台┃🔢",華視
+https://iptv.mydiver.eu.org/live/encrypted/NjZiYjZlNzgyMGQ3MzRhZTBmZWFhNzYxZTMzNmFlMWM6ZmRhYThhYjcyMzBlM2ZmMDRjOGNjNmE2NmU0YTg5MjcyYTFkZGIxYjU0Zjc2NmU3YWQ5OGVjNTU2MWM2MDZjMTk4MDEyMjgzNTQ2OTBiMDc1MmM0YTgyMzM3MThjZDgzMTA0NjhlYjExMDdiMDhhMmQ2YWQ3NTFhMjFlN2UxOWM4Zjc1NDE0YjQyM2Q2NmRmZDgwMTA1OGUxODc0MmU0OGEyMzNlMTFjZjgwNzgzYjZjNjhiMGExM2NhN2Y5NDAwYjcyMWQ2MTJhODZkZGJhNzQ1ZGRkMTdjMTU2OWI3MDM2N2ZkYmY4NzlmYTdlNTA0OTBmMTE0MTMzZDQ5ZGY1ZGNjNTcwZDU0MjQ4NmI3OGE2NjY5N2ZkZTY4MmUxYTMxMDg4ODMyZmIwYzM2ODYxYWM0ODU0ZjlmNmU3MTFkYWY4NzAxMWZjMTg2MzVmMDM3NTYzY2U4YjY4YjM0MWQxYzFjZGRlZjM1ZmFkNzdjNjk1ODhiZWRiNTZhMmU3MzZm?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🦄️┃港·澳·台┃🔢",華視
+https://iptv.mydiver.eu.org/live/encrypted/OWNkZTEyZjVhYjVmYjE1MDE1YzUyNzU1ODg4ODY5YzY6NDc1ZjRhZDQwY2U3ZjY0NmViYWQyYWU1MTk1YWI0OGU3NGZkOTdiNzk0OTQ2MTNkZjQyMDRkZmVkNmRjZWZmMmFiNmNhNzc5OTNlYTMzMjEzZmZlMzcwZWYyY2ZkNDUxNWIzNzQ1ZjMwNTk2MTg2NzNhMTUwODBjYmVlZTJkN2RjZjhiOWFmMTFkOGRkODhlMDg3ZjM4N2Y0NzMyZDk5ZWY1Njg0MzQyZjE1NjRiNjFjY2I5MjliZDQ1N2NmZGFhYzI2YTY0MWM3NTIyMDMyODdlY2M3OWEwZTNjZTIxZDEyNGVmNGFkM2VlOGNjOWRjODUwYWU3M2M5ZjZhN2ZhYjFiMjY3ZjVjN2NmYmM2ZTI4YzJmYzdmNzAyMDIwNGRhZTZjYzM3MTZlYzQxN2ViYTZjMDYzNjIzYjdkNDhjMzk5OTBlNjQwMzBmMDcyOTljNDlhMjgyMjZmODJjM2M4NWUwZGY2MzdmY2YzOTE0M2FmMTVkMDcxZDQ0NDJmMTA0?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🦄️┃港·澳·台┃🔢",華視
+https://iptv.mydiver.eu.org/live/encrypted/ZDFmYTljZWZjY2JiNjM4MTMyOTFiOTA5Mzc1NGI1NjA6MjFhODYyMmE3NGYxMWFhYjRkYTVhZmM0MzZiM2VlMzQ5YjM0MzFhZDQ1YzdmYmQ3Y2ViNTRiYzE0YzAxZTgzZWU5MjIyMTdlNGVjN2Q4NmRhMDUzZjc0ZmZmOGJlNDljYjRjYTk1MDg5ODYxYTc5MTZjMTNkMmI0NjNkN2MyMTI1YzMyNWMwOTNhMmIzYmViMzMwZGMxMTQ0MWY1NmVkODEzYjgzYzg2YTRmM2JjN2QxNDY3OTQ0MDhmNDljZTViNjZjNmYzMWViOTQ2Y2Q4MDE0OWFkYWEyZDgyOTIzZDFhMDczMjFiNWE0MGMxNjBlYmQwZGMyM2U2NjA0NTdlMmYxYjkzYjkwNzYyNjFkMTRhYWI5MzBkNjY5MTdkYWFiZTQ4ODM1YWVhODVkOTUwM2I2NzcyYzIzODk4ZTFhMDE2YzBkN2UzNTkwN2IwNzgyOWM1ODM1NzA0ZDVjOWNmYjg5MTZmNmYxZTg0ZWFlNzI1ZDUzMWNjMDllMThiZWQ0?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🦄️┃港·澳·台┃🔢",華視
+https://iptv.mydiver.eu.org/live/encrypted/Y2RjYjIzNmMxNDdiOGY0MmFmOTc3OGZiZjczY2I4MmU6NDM4OTE5ZDA2NDU5MzE0N2JlY2UwNTNkYTAxZjc3OWI3NDE0NzUyMTJlMzMyZjMzYTdjMWU5NzNjNDI5NGFmNGNmYzk1MDg4NjA5Nzk4YjEzZmFlY2YyZmY5ZTRiOWRjYmZkODc0YzkxNWYzZjI3NjlkNDYxNTAzNWE2NzViMTA1MTZjMDNhM2M0NGNlOWZlNTRhNjI0YzEyMTM2NzY2NTJmYmZlOTRiMTE2MGQwZmU4ZDI4MzVhYjE1ZGU2YTljODFmNTcyNTBkOWZkZTNhMTQ2MDY3Y2E2YjgxMGYwMTE1OWU2ODVlNzNhYjEyYzU5NGYxNmUwNTgxZjFhNGNlMDgzYTM2ZGY2NDVmMWNkN2RmODhiM2Y4NjcyMzhhNDQyM2U2NWRmMzAxMzgyMjlhYTYxYzc1ZWU1OThlNTRiZmJkMjZkZTdiNzc2NjJhMDc5YmNmYzM0ZjZjYjZhNDQ2YTI5MTJkNzU4YzQ2YWQzZTcwZTk1ODQ4NzlmZjcxYjIx?username=tg_vnpu89z4
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🦄️┃港·澳·台┃🔢",華視
+https://iptv.mydiver.eu.org/live/encrypted/ZDBkNjg3MzQ4ZDhiZGRlMmM3ODUzMzRhZTg4MDU3OWI6NzE0ZDQ4NzNjNDQxZTQwNzUzNTAyMWE2ZGE2NGMxM2QxNzgxZWI5MmY5NDk5MjAyNTJmYWYyNmEzOGZlMjVmNTQ5MmMwZGJhNTQ4NDA0OTJlYWE3ZGVkMmEwZWNkNWE1NDgxZTVmZjAxMGQyYzg0ZTVmYTdiOWQ3YmVlZjAyY2VmZWY3Njc4ZWVjMWVjMzBlMjZlNDIxMjk0ZWZjMzc0YmYzZDk2Njc5YWFiYjEwMjVhNTlhMzdmZjhjYWIxODFjZjA5MjYyYzJkNWQ0YWNiZWM3MjY0ODNkMmRiODhlNDJkZDdmOWQyNTk5ZDdiNmViOTdjZDA5OGM3Zjk1OGI5OTBiMTliYTM2ZTZiYjAwYWZmYjdiZDY5OGIwZDlmMmZiOTNmNDIxZTE4NTZmZmQ5MmIxNmZkYTU4ZTBlNGJmZmJkODUzMTIyMzAyYTRhZDE2OGZkMDVkZmFmZDZmOTAyMGE0ZmI5ZjI3ODI3MjY5ZThhM2E5OTJiM2NlMTU5ZGM2MGJkNWM3YTk2MDVkOWNjNGMyZmViNGUxYzJjZjRlNTE?username=tg_vnpu89z4
 #EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黃金翡翠台.png" group-title="🦄️┃港·澳·台┃🔢",黃金翡翠台
 http://jxiptv.dpdns.org/stream/tvb/null-7/master.m3u8
+#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黃金翡翠台.png" group-title="🦄️┃港·澳·台┃🔢",黃金翡翠台
+http://jxiptv.dpdns.org/stream/4gtv/null-7/master.m3u8
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華日韓台.png" group-title="🦄️┃港·澳·台┃🔢",龍華日韓台
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影台.png" group-title="🦄️┃港·澳·台┃🔢",龍華電影台
@@ -2827,6 +2915,8 @@ https://stream1.freetv.fun/3ecdc9f91459f48985df3779518156c60380fd02c4376c31f238d
 https://stream1.freetv.fun/5a5447e4765a0b06d72b11253cd9076e11296703cdc396603b99c9955dc3fdba.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg TV.png" group-title="🅱┃台湾HAMI(TW)┃🥝",Bloomberg TV
 https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Asia.png" group-title="🅱┃台湾HAMI(TW)┃🥝",Discovery Asia
+http://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 #EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Global Trekker.png" group-title="🅱┃台湾HAMI(TW)┃🥝",Global Trekker
 http://docker.livednow.dpdns.org/4gtv-live112/index.m3u8
 #EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Global Trekker.png" group-title="🅱┃台湾HAMI(TW)┃🥝",Global Trekker
@@ -3033,8 +3123,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬┃电影频道┃",CHC高清电影
 http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬┃电影频道┃",CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬┃电影频道┃",淘剧场
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬┃电影频道┃",淘剧场
@@ -3206,7 +3294,7 @@ https://live.tvfix.org/live/tyjd/index.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬┃电影频道┃",天映经典
 https://011v4.pendy.dpdns.org/stream/tvb/cccm/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬┃电影频道┃",天映经典
-https://stream1.freetv.fun/69fcbefe1b59785e9e45cce84f0ae50e492a5918f63d33ce4e3d4c6267c61d37.ctv
+http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🎬┃电影频道┃",无线星河
 http://php.jdshipin.com/smt.php?id=Xinhe
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🎬┃电影频道┃",无线星河
@@ -3388,8 +3476,6 @@ https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀┃体育频道┃",CCTV-5
 https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀┃体育频道┃",CCTV-5
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀┃体育频道┃",CCTV-5
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀┃体育频道┃",CCTV-5
 http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -3403,6 +3489,8 @@ http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀┃体育频道┃",CCTV-5
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3847208563_882248521/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8?icpid=3&RTS=1668594346&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀┃体育频道┃",CCTV-5
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🏀┃体育频道┃",CCTV-5+
 http://z.b.bkpcp.top/m.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🏀┃体育频道┃",CCTV-5+
@@ -3466,8 +3554,6 @@ https://stream1.freetv.fun/yan-dong-ti-yu-14.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀┃体育频道┃",纬来体育
 https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀┃体育频道┃",纬来体育
-https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀┃体育频道┃",纬来体育
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀┃体育频道┃",纬来体育
 https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
@@ -3477,6 +3563,8 @@ https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e
 https://stream1.freetv.fun/wei-lai-ti-yu-7.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀┃体育频道┃",纬来体育
 https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀┃体育频道┃",纬来体育
+https://smart.pendy.dpdns.org/Smart.php
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🏀┃体育频道┃",五星体育
 http://[2409:8087:5e00:24::29]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🏀┃体育频道┃",五星体育
@@ -3894,17 +3982,15 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀┃体育频道┃",快乐垂钓
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000648/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀┃体育频道┃",快乐垂钓
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀┃体育频道┃",快乐垂钓
 https://epg.pw/stream/72e16918f04add8ce8852655ac3fc834983ac57a59cc6449b9ea892887283181.ctv
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀┃体育频道┃",快乐垂钓
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀┃体育频道┃",JJ斗地主
 http://www.52sw.top:678/play/huya.php?id=14079954
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀┃体育频道┃",JJ斗地主
 https://www.goodiptv.club/douyin/685317364746
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀┃体育频道┃",JJ斗地主
 https://live.iill.top/huya/14079954
-#EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀┃体育频道┃",JJ斗地主
-https://live.iill.top/douyin/jjworld
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀┃体育频道┃",JJ斗地主
 https://live.laobaitv.net/huya/jjworld
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁┃动画频道┃",少儿动画
@@ -3916,7 +4002,7 @@ https://stream1.freetv.fun/fa54b3fcd754e2521f2f9af804b74774cce5a0430c8b17d4df73a
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁┃动画频道┃",少儿动画
 https://stream1.freetv.fun/7d228011720441a9402d572b7d200b40a54a2489f5b9953ecc2ba19e435d98d8.m3u8
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁┃动画频道┃",少儿动画
-https://stream1.freetv.fun/fef6471001fd623bbe6ad3086bb6744195e06af3da89f3c1e4b20db9dd11936f.m3u8
+https://stream1.freetv.fun/81f95d17d4f4853c3bcb45624181117e3c8b81f3ed4467df75a8e7ccddf272ca.m3u8
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷动画.png" group-title="🪁┃动画频道┃",卡酷动画
 http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001245/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷动画.png" group-title="🪁┃动画频道┃",卡酷动画
@@ -4044,8 +4130,6 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-3.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
 https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
 https://stream1.freetv.fun/aec603fdb1ae19a081a7ca50498e3c9429447092a2208a2d383ae2bc812009b5.m3u8
@@ -4071,6 +4155,8 @@ https://stream1.freetv.fun/jin-ying-qia-tong-21.m3u8
 https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
 https://stream1.freetv.fun/jin-ying-qia-tong-42.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
+https://stream1.freetv.fun/jin-ying-qia-tong-44.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁┃动画频道┃",黑莓动画
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁┃动画频道┃",黑莓动画
@@ -4096,11 +4182,11 @@ http://[2409:8087:74d6:22::7]:6410/270000001128/9900000096/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁┃动画频道┃",黑莓动画
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁┃动画频道┃",黑莓动画
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁┃动画频道┃",黑莓动画
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000096/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000096
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁┃动画频道┃",黑莓动画
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁┃动画频道┃",黑莓动画
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/炫动卡通.png" group-title="🪁┃动画频道┃",炫动卡通
 http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001232/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/炫动卡通.png" group-title="🪁┃动画频道┃",炫动卡通
