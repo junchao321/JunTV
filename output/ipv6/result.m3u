@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/junchao321/JunTV/refs/heads/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2026-01-16 07:28:58
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2026-01-17 19:23:47
 https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍄┃广东频道┃🏡",广州综合
 https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
@@ -4415,6 +4415,8 @@ https://www.goodiptv.club/douyin/685317364746
 https://live.iill.top/huya/14079954
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀┃体育频道┃",JJ斗地主
 https://live.laobaitv.net/huya/jjworld
+#EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀┃体育频道┃",JJ斗地主
+https://live.iill.top/douyin/685317364746
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁┃动画频道┃",少儿动画
 https://stream1.freetv.fun/fa54b3fcd754e2521f2f9af804b74774cce5a0430c8b17d4df73a90664f4277a.ctv
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁┃动画频道┃",少儿动画
@@ -4574,8 +4576,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
-https://stream1.freetv.fun/1b907bbf4760e673ec9ab89e2327cd1d9e5df04ca6ef35a6fb07f5b6757f4791.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
 https://stream1.freetv.fun/jin-ying-qia-tong-41.ctv
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
 https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-6.m3u8
@@ -4601,6 +4601,8 @@ https://stream1.freetv.fun/jin-ying-qia-tong-11.m3u8
 http://www.1328099.xyz:9001/rtp/239.77.0.164:5146
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
 https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-44.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁┃动画频道┃",金鹰卡通
+https://stream1.freetv.fun/jin-ying-qia-tong-13.ctv
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁┃动画频道┃",黑莓动画
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁┃动画频道┃",黑莓动画
