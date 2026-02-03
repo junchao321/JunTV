@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-02 07:33:01,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
+2026-02-03 19:40:51,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
 
 🍄┃广东频道┃🏡,#genre#
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
@@ -1880,6 +1880,7 @@ NewTV动作电影,https://fenghuang.tv12.xyz/26.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
 东森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
+东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
