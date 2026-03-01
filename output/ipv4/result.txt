@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-01 19:27:36,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+2026-03-02 07:31:28,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 
 🍄┃广东频道┃🏡,#genre#
 4K南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
@@ -11,7 +11,6 @@
 
 🍓┃央视频道┃🏡,#genre#
 CCTV-1,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv1&zy.m3u8
-CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-2,http://171.83.103.119:9999/rtp/239.69.1.102:10250
 CCTV-4,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv4&zy.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -41,9 +40,9 @@ CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 东方卫视,http://171.83.103.119:9999/rtp/239.254.96.142:8926
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://171.83.103.119:9999/rtp/239.254.96.143:8932
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://171.83.103.119:9999/rtp/239.254.96.139:8908
 江苏卫视,http://171.83.103.119:9999/rtp/239.254.96.144:8938
 北京卫视,http://171.83.103.119:9999/rtp/239.254.96.141:8920
@@ -53,8 +52,8 @@ CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 安徽卫视,http://171.83.103.119:9999/rtp/239.69.1.70:10060
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东南卫视,http://171.83.103.119:9999/rtp/239.69.1.108:10286
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://171.83.103.119:9999/rtp/239.69.1.191:10788
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
@@ -102,15 +101,12 @@ IPTV经典电影,http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&p
 🎥┃咪咕直播┃,#genre#
 
 🏀┃体育频道┃,#genre#
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 睛彩羽毛球,http://thhomes.cn:4000/rtp/239.3.1.127:8001
 睛彩羽毛球,http://drive.mxmy.net:8888/udp/239.3.1.127:8001
 快乐垂钓,http://171.83.103.119:9999/rtp/239.69.1.142:10488
 
 🪁┃动画频道┃,#genre#
-金鹰卡通,http://125.43.240.161:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://171.83.103.119:9999/rtp/239.69.1.248:11130
 浙江少儿,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=zjse&zy.m3u8
 河北少儿科教,http://php.fjl626.cn/hebei.php?id=sekj
