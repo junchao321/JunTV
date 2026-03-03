@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-03-02 07:31:28,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+2026-03-03 19:39:07,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 
 🍄┃广东频道┃🏡,#genre#
 4K南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
+广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://171.83.103.119:9999/rtp/239.254.96.140:8914
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 深圳卫视,http://171.83.103.119:9999/rtp/239.254.96.137:8896
@@ -14,9 +14,9 @@ CCTV-1,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv1&zy.m3u8
 CCTV-2,http://171.83.103.119:9999/rtp/239.69.1.102:10250
 CCTV-4,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv4&zy.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.231:11028
 CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.138:10466
 CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.232:11034
+CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.231:11028
 CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-5,http://171.83.103.119:9999/rtp/239.69.1.123:10376
 CCTV-5+,http://171.83.103.119:9999/rtp/239.254.96.234:9484
@@ -40,9 +40,9 @@ CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 东方卫视,http://171.83.103.119:9999/rtp/239.254.96.142:8926
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://171.83.103.119:9999/rtp/239.254.96.143:8932
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://171.83.103.119:9999/rtp/239.254.96.139:8908
 江苏卫视,http://171.83.103.119:9999/rtp/239.254.96.144:8938
 北京卫视,http://171.83.103.119:9999/rtp/239.254.96.141:8920
@@ -55,12 +55,12 @@ CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://171.83.103.119:9999/rtp/239.69.1.191:10788
-贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
+贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://171.83.103.119:9999/rtp/239.69.1.150:10536
 海南卫视,http://171.83.103.119:9999/rtp/239.69.1.151:10542
-河北卫视,http://171.83.103.119:9999/rtp/239.254.96.113:9616
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
+河北卫视,http://171.83.103.119:9999/rtp/239.254.96.113:9616
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://171.83.103.119:9999/rtp/239.69.1.168:10644
 江西卫视,http://171.83.103.119:9999/rtp/239.69.1.126:10394
@@ -72,14 +72,13 @@ CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 四川卫视,http://171.83.103.119:9999/rtp/239.69.1.169:10650
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
 天津卫视,http://171.83.103.119:9999/rtp/239.69.1.68:10048
-西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 西藏卫视,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=xzws&zy.m3u8
+西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 🦄️┃港·澳·台┃🔢,#genre#
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
-鳳凰衛視香港,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 
