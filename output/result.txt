@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-07 19:27:02,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
+2026-03-08 07:30:24,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
 
 🍄┃广东频道┃🏡,#genre#
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
@@ -348,9 +348,9 @@ CCTV-3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-17540
 CCTV-3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV-3,http://www.1328099.xyz:9001/udp/239.77.0.169:5146
 CCTV-3,http://www.1328099.xyz:9001/udp/239.77.0.175:5146
+CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.232:11034
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.138:10466
-CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.232:11034
 CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.231:11028
 CCTV-4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226189/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226741/index.m3u8
 CCTV-4,http://goo.bkpcp.top/mg/cctv4
@@ -438,7 +438,6 @@ CCTV-8,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4086984004_113688
 CCTV-8,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 CCTV-8,http://www.1328099.xyz:9001/udp/239.77.0.172:5146
 CCTV-8,http://www.1328099.xyz:9001/udp/239.77.0.181:5146
-CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV-9,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226173/index.m3u8
 CCTV-9,http://goo.bkpcp.top/mg/cctv9
 CCTV-9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
@@ -453,6 +452,7 @@ CCTV-9,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-9,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226450/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-9,http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw4254168827_1850088835/ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8?icpid=3&RTS=1668594753&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 CCTV-9,http://www.1328099.xyz:9001/udp/239.77.1.160:5146
+CCTV-9,http://www.1328099.xyz:9001/udp/239.77.1.168:5146
 CCTV-10,http://171.83.103.119:9999/rtp/239.69.1.105:10268
 CCTV-10,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226194/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226792/index.m3u8
 CCTV-10,http://goo.bkpcp.top/mg/cctv10
