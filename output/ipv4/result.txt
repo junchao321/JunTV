@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-08 07:30:24,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+2026-03-09 19:39:55,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 
 🍄┃广东频道┃🏡,#genre#
 4K南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
@@ -9,10 +9,10 @@
 
 🍓┃央视频道┃🏡,#genre#
 CCTV-2,http://171.83.103.119:9999/rtp/239.69.1.102:10250
-CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.232:11034
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.138:10466
 CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.231:11028
+CCTV-4,http://171.83.103.119:9999/rtp/239.69.1.232:11034
 CCTV-5,http://171.83.103.119:9999/rtp/239.69.1.123:10376
 CCTV-5+,http://171.83.103.119:9999/rtp/239.254.96.234:9484
 CCTV-6,http://171.83.103.119:9999/rtp/239.69.1.124:10382
@@ -44,8 +44,8 @@ CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://171.83.103.119:9999/rtp/239.69.1.150:10536
 海南卫视,http://171.83.103.119:9999/rtp/239.69.1.151:10542
-河北卫视,http://171.83.103.119:9999/rtp/239.254.96.113:9616
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
+河北卫视,http://171.83.103.119:9999/rtp/239.254.96.113:9616
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://171.83.103.119:9999/rtp/239.69.1.168:10644
 江西卫视,http://171.83.103.119:9999/rtp/239.69.1.126:10394
