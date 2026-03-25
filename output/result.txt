@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-25 19:46:37,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
+2026-03-26 07:42:27,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
 
 🍄┃广东频道┃🏡,#genre#
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
@@ -650,9 +650,9 @@ CETV4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146
 浙江卫视,http://www.1328099.xyz:9001/udp/239.77.1.33:5146
 浙江卫视,http://www.1328099.xyz:9001/udp/239.77.1.150:5146
 浙江卫视,http://www.1328099.xyz:9001/udp/239.77.0.89:5146
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
@@ -785,7 +785,6 @@ CETV4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146
 安徽卫视,http://www.1328099.xyz:9001/udp/239.77.1.92:5146
 安徽卫视,http://www.1328099.xyz:9001/udp/239.77.1.157:5146
 安徽卫视,http://www.1328099.xyz:9001/udp/239.77.0.183:5146
-重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://goo.bkpcp.top/mg/cqws
 重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
@@ -800,6 +799,7 @@ CETV4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146
 重庆卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000517/index.m3u8
 重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 重庆卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8
+重庆卫视,https://tv.bfsu.edu.cn/hls/cqhd.m3u8
 东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
 东南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8
 东南卫视,http://j.x.bkpcp.top/jx/DONGNHD
@@ -1025,8 +1025,8 @@ CETV4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1747157133&key=4ad704b448f606a068a8451691ea171c
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1747171448&key=99f0d283fafc346635555ffd4c53adac
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
 陕西卫视,http://goo.bkpcp.top/mg/sxws
 陕西卫视,http://gat.bkpcp.top/ymg.php?id=sxws
@@ -2110,6 +2110,7 @@ CCTV-5+,http://www.1328099.xyz:9001/udp/239.77.1.147:5146
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-10.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
+天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8?icpid=3&RTS=1669268931&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1747187993&key=fe4b8c03d732238fec126db4a7353c46
 江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1747293966&key=fdfee073725097d5b3d1adb92a13d490
@@ -2232,7 +2233,6 @@ JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954
 JJ斗地主,https://www.goodiptv.club/douyin/685317364746
 JJ斗地主,https://live.iill.top/huya/14079954
 JJ斗地主,https://live.laobaitv.net/huya/jjworld
-JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁┃动画频道┃,#genre#
 少儿动画,https://stream1.freetv.fun/fa54b3fcd754e2521f2f9af804b74774cce5a0430c8b17d4df73a90664f4277a.ctv
