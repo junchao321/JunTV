@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-29 19:36:06,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
+2026-03-30 07:41:24,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
 
 🍄┃广东频道┃🏡,#genre#
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
@@ -635,7 +635,6 @@ CETV4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146
 东方卫视,http://www.1328099.xyz:9001/udp/239.77.1.218:5146
 东方卫视,http://www.1328099.xyz:9001/udp/239.77.1.156:5146
 东方卫视,http://www.1328099.xyz:9001/udp/239.77.0.98:5146
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
 浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8
@@ -650,6 +649,7 @@ CETV4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146
 浙江卫视,http://www.1328099.xyz:9001/udp/239.77.1.32:5146
 浙江卫视,http://www.1328099.xyz:9001/udp/239.77.1.33:5146
 浙江卫视,http://www.1328099.xyz:9001/udp/239.77.1.150:5146
+浙江卫视,http://www.1328099.xyz:9001/udp/239.77.0.89:5146
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8
@@ -2109,7 +2109,6 @@ CCTV-5+,http://www.1328099.xyz:9001/udp/239.77.1.147:5146
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-2.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-10.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8?icpid=3&RTS=1669268931&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1747187993&key=fe4b8c03d732238fec126db4a7353c46
 江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1747293966&key=fdfee073725097d5b3d1adb92a13d490
@@ -2155,6 +2154,7 @@ CCTV-5+,http://www.1328099.xyz:9001/udp/239.77.1.147:5146
 睛彩篮球,http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221226027/main.m3u8
 睛彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 睛彩篮球,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8
+睛彩羽毛球,http://thhomes.cn:4000/rtp/239.3.1.127:8001
 睛彩广场舞,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 睛彩广场舞,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 睛彩广场舞,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/1.m3u8
@@ -2231,6 +2231,7 @@ JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954
 JJ斗地主,https://www.goodiptv.club/douyin/685317364746
 JJ斗地主,https://live.iill.top/huya/14079954
 JJ斗地主,https://live.laobaitv.net/huya/jjworld
+JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁┃动画频道┃,#genre#
 少儿动画,https://stream1.freetv.fun/fa54b3fcd754e2521f2f9af804b74774cce5a0430c8b17d4df73a90664f4277a.ctv
