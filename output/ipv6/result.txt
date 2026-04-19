@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-18 07:45:44,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
+2026-04-19 19:41:42,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
 
 🍄┃广东频道┃🏡,#genre#
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
@@ -1140,12 +1140,12 @@ CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=6578431fa2607b7000
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,https://stream1.freetv.fun/fei-cui-2.ctv
 翡翠台,http://cdn5.1678520.xyz/live/?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://php.jdshipin.com/smt.php
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php
 翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 翡翠台,https://stream1.freetv.fun/fei-cui-6.ctv
 翡翠台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
+翡翠台,https://epg.pw/stream/d0fc7eb1292fb2194fbd2faa5fed0eefee1930fc1d9d8fb36f121ae0b691a7ef.ctv
 TVB翡翠台,http://php.jdshipin.com:8880/smt.php
 TVB翡翠台,http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -1348,7 +1348,6 @@ ROCK Action,https://hls-gateway.vpstv.net/streams/709551.m3u8
 ROCK Action,https://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
 ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 TVB星河,http://cdn9.163189.xyz/smt1.1.php
-TVB星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVB星河,http://v2hcdn.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w1006.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -1362,6 +1361,7 @@ TVB星河,http://100.061833.xyz/stream/mytv/null-7/master.m3u8?u=3a3a3a&p=29624e
 TVB星河,http://j.s.bkpcp.top/jj/tvbxht
 TVB星河,http://php.jdshipin.com/smt.php
 TVB星河,https://hls-gateway.vpstv.net/streams/709489.m3u8
+TVB星河,https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
 千禧经典台,http://php.jdshipin.com/smt.php
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 AMC電影台,https://tv.iill.top/litv/4gtv-4gtv017
@@ -1374,7 +1374,6 @@ Animax,http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 Animax,http://free.cnlive.club/channel/e15243b.m3u8
 美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
 美亚电影台,https://stream1.freetv.fun/mei-ya-dian-ying-2.m3u8
-美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影台,http://j.s.bkpcp.top/js/mydy5
 美亚电影台,http://j.s.bkpcp.top/js/mydy6
 美亚电影台,http://j.s.bkpcp.top/js/mydy7
@@ -1387,6 +1386,7 @@ Animax,http://free.cnlive.club/channel/e15243b.m3u8
 美亚电影台,https://hls-gateway.vpstv.net/streams/709286.m3u8
 美亚电影台,https://hls-gateway.vpstv.net/streams/708901.m3u8
 美亚电影台,http://live.catvod.com/smart.php?id=meiyamovie_twn
+美亚电影台,http://php.jdshipin.com:8880/smt.php
 美亞電影台(HK),https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
 美亞電影台(HK),http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 美亚电影粤,http://php.jdshipin.com:8880/TVOD/iptv.php
@@ -2225,7 +2225,6 @@ JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954
 JJ斗地主,https://www.goodiptv.club/douyin/685317364746
 JJ斗地主,https://live.iill.top/huya/14079954
 JJ斗地主,https://live.laobaitv.net/huya/jjworld
-JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁┃动画频道┃,#genre#
 少儿动画,https://stream1.freetv.fun/fa54b3fcd754e2521f2f9af804b74774cce5a0430c8b17d4df73a90664f4277a.ctv
