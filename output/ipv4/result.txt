@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-14 07:58:16,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+2026-07-15 20:20:41,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 
 🍄┃广东频道┃🏡,#genre#
 4K南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
@@ -8,6 +8,8 @@
 🍓┃央视频道┃🏡,#genre#
 CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
