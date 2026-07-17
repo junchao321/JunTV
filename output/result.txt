@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-17 20:14:29,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
+2026-07-18 07:57:42,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
 
 🍄┃广东频道┃🏡,#genre#
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
@@ -2125,6 +2125,7 @@ CCTV-5+,http://www.1328099.xyz:9001/udp/239.77.1.147:5146
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-5.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-2.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-10.m3u8
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8?icpid=3&RTS=1669268931&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1747187993&key=fe4b8c03d732238fec126db4a7353c46
