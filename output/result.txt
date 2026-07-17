@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-16 08:03:39,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
+2026-07-17 20:14:29,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
 
 🍄┃广东频道┃🏡,#genre#
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
@@ -485,7 +485,6 @@ CCTV-11,http://www.1328099.xyz:9001/udp/239.77.1.238:5146
 CCTV-11,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8
 CCTV-11,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000497/index.m3u8
 CCTV-11,http://gat.bkpcp.top/ymg.php?id=cctv11
-CCTV-12,http://222.223.41.27:8888/hls/12/index.m3u8
 CCTV-12,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226192/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226862/index.m3u8
 CCTV-12,http://goo.bkpcp.top/mg/cctv12
 CCTV-12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
@@ -500,6 +499,7 @@ CCTV-12,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-12,http://www.1328099.xyz:9001/udp/239.77.1.109:5146
 CCTV-12,http://www.1328099.xyz:9001/udp/239.77.1.170:5146
 CCTV-12,http://www.1328099.xyz:9001/udp/239.77.0.136:5146
+CCTV-12,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8
 CCTV-13,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226191/index.m3u8
 CCTV-13,http://goo.bkpcp.top/mg/cctv13
 CCTV-13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
