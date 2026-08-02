@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-01 20:06:22,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
+2026-08-02 08:01:45,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
 
 🍄┃广东频道┃🏡,#genre#
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
@@ -560,8 +560,8 @@ CCTV-16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8
 CCTV-16,http://gat.bkpcp.top/ymg.php?id=cctv16
 CCTV-16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8
 CCTV-16,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226866/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 CCTV-17,http://goo.bkpcp.top/mg/cctv17
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
@@ -1012,8 +1012,8 @@ CETV4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146
 山东卫视,http://www.1328099.xyz:9001/udp/239.77.0.132:5146
 山东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 山东卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000527/index.m3u8
-山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
 山西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887413.m3u8
 山西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8
@@ -1042,8 +1042,8 @@ CETV4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146
 陕西卫视,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000026
 陕西卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010113/1.m3u8
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 四川卫视,http://z.b.bkpcp.top/m.php?id=scws
 四川卫视,http://j.x.bkpcp.top/jx/SICHD
@@ -2334,6 +2334,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-5.ctv
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8
 优漫卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227007/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhHDWGhkwx_zJcJUYE9TAaA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+金鹰卡通,http://125.43.249.115:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
 金鹰卡通,http://www.1328099.xyz:9001/rtp/239.77.0.164:5146
 金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8
@@ -2348,7 +2349,6 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-5.ctv
 金鹰卡通,http://[2409:8087:74d9:21::6]/270000001128/9900000039/index.m3u8
 金鹰卡通,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
 金鹰卡通,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-金鹰卡通,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
 黑莓动画,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8
