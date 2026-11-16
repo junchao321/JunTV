@@ -1,34 +1,23 @@
 🕘️更新时间,#genre#
-2026-11-16 01:40:12,http://8.138.7.223/so/tool/live/20261104224243_00001.m3u8
+2026-11-16 10:40:41,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 
 🍄┃广东频道┃🏡,#genre#
-广州综合,http://8.138.7.223/so/tool/live/20261104224243_00001.m3u8
-广州新闻,http://8.138.7.223/so/tool/live/20261104224246_00001.m3u8
 4K南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://8.138.7.223/so/tool/live/20261111220418_00006.m3u8
 广东卫视,http://8.138.7.223/so/tool/live/20261113203444_00006.m3u8
-深圳卫视,http://8.138.7.223/so/tool/live/20261111220418_00011.m3u8
+广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 深圳卫视,http://8.138.7.223/so/tool/live/20261113203444_00011.m3u8
 
 🍓┃央视频道┃🏡,#genre#
-CCTV-1,http://8.138.7.223/so/tool/live/20261111220552_00008.m3u8
-CCTV-1,http://8.138.7.223/so/tool/live/20261104220500_00002.m3u8
-CCTV-2,http://8.138.7.223/so/tool/live/20261111220552_00009.m3u8
-CCTV-2,http://8.138.7.223/so/tool/live/20261104220500_00003.m3u8
-CCTV-3,http://8.138.7.223/so/tool/live/20261111220552_00010.m3u8
 CCTV-4,http://8.138.7.223/so/tool/live/20261113203515_00001.m3u8
 CCTV-5,http://8.138.7.223/so/tool/live/20261113203515_00002.m3u8
 CCTV-5+,http://8.138.7.223/so/tool/live/20261113203515_00003.m3u8
 CCTV-6,http://8.138.7.223/so/tool/live/20261113203515_00004.m3u8
 CCTV-7,http://8.138.7.223/so/tool/live/20261113203515_00005.m3u8
-CCTV-8,http://8.138.7.223/so/tool/live/20261113203515_00006.m3u8
 CCTV-9,http://8.138.7.223/so/tool/live/20261113203515_00007.m3u8
 CCTV-10,http://8.138.7.223/so/tool/live/20261113203515_00008.m3u8
 CCTV-11,http://8.138.7.223/so/tool/live/20261113203515_00009.m3u8
 CCTV-12,http://8.138.7.223/so/tool/live/20261113203515_00010.m3u8
 CCTV-13,http://8.138.7.223/so/tool/live/20261113203515_00011.m3u8
-CCTV-13,http://8.138.7.223/so/tool/live/20261104220500_00004.m3u8
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-14,http://8.138.7.223/so/tool/live/20261113203515_00012.m3u8
 CCTV-15,http://8.138.7.223/so/tool/live/20261113203515_00013.m3u8
@@ -40,30 +29,27 @@ CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 🐧┃卫视频道┃🏡,#genre#
 东方卫视,http://8.138.7.223/so/tool/live/20261113203444_00002.m3u8
 浙江卫视,http://8.138.7.223/so/tool/live/20261113203444_00003.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://8.138.7.223/so/tool/live/20261113203444_00004.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 江苏卫视,http://8.138.7.223/so/tool/live/20261113203444_00001.m3u8
 北京卫视,http://8.138.7.223/so/tool/live/20261113203515_00030.m3u8
 湖北卫视,http://8.138.7.223/so/tool/live/20261113203444_00005.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://8.138.7.223/so/tool/live/20261113203444_00018.m3u8
-安徽卫视,http://8.138.7.223/so/tool/live/20261108082039_00001.m3u8
 重庆卫视,http://8.138.7.223/so/tool/live/20261113203444_00010.m3u8
 东南卫视,http://8.138.7.223/so/tool/live/20261113203444_00014.m3u8
-甘肃卫视,http://8.138.7.223/so/tool/live/20261108220615_00001.m3u8
 广西卫视,http://8.138.7.223/so/tool/live/20261113203444_00007.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://8.138.7.223/so/tool/live/20261113203444_00015.m3u8
+贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://8.138.7.223/so/tool/live/20261113203444_00009.m3u8
 河北卫视,http://8.138.7.223/so/tool/live/20261113203444_00019.m3u8
-河北卫视,http://8.138.7.223/so/tool/live/20261104221319_00004.m3u8
 吉林卫视,http://8.138.7.223/so/tool/live/20261113203444_00022.m3u8
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 江西卫视,http://8.138.7.223/so/tool/live/20261113203444_00016.m3u8
 辽宁卫视,http://8.138.7.223/so/tool/live/20261113203444_00017.m3u8
-内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://8.138.7.223/so/tool/live/20261113203444_00025.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -89,7 +75,6 @@ CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 🦄️┃港·澳·台┃🔢,#genre#
-翡翠台,http://8.138.7.223/so/tool/live/20261106191728_00001.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
@@ -101,8 +86,8 @@ BBC NEWS,http://myott.top/stream/DT6QU63K5VX/85.m3u8
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 风云音乐,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 🎬┃电影频道┃,#genre#
 
@@ -111,7 +96,6 @@ BBC NEWS,http://myott.top/stream/DT6QU63K5VX/85.m3u8
 🏀┃体育频道┃,#genre#
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
-安徽综艺体育,http://8.138.7.223/so/tool/live/20261108082039_00006.m3u8
 
 🪁┃动画频道┃,#genre#
 
